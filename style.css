@@ -1,3 +1,11 @@
-*{
-    margin: auto;
+div{
+    display: flex;
+    gap:10px
+}
+
+ul{
+    border: 2px solid purple;
+    border-radius: 5px;
+    padding: 10px;
+    list-style-type: none;
 }
